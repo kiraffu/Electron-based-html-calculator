@@ -20,6 +20,6 @@ If everything went right, you should get a window pop-up showing the application
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about the Electron Framework, take a look at the following resources:
 
-- [Electron Documentation]([https://www.electronjs.org/docs/latest])
+- [`Electron Documentation`](https://www.electronjs.org/docs/latest)
